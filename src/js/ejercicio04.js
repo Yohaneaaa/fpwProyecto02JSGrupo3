@@ -39,7 +39,7 @@ else {
     }
 
     if (!esValido) {
-        alert("Error: Ingrese un numero entre 0 y 6?85");
+        alert("Error: Ingrese un numero entre 0 y 5");
     } else {
         
         const salida = remplazoSignoInterrogacion(ingresoNum);
