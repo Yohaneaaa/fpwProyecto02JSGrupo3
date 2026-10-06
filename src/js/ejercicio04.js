@@ -4,7 +4,7 @@
  Debe escribir una función que retorne una nueva cadena, que representa el número obtenido de 
  reemplazar cada signo de pregunta, de la cadena original, por un dígito que sea la suma de los dígitos 
  adyacentes a ese signo de pregunta en la cadena original.*/
- import { remplazoSignoInterrogacion } from "../services.js/servicesEjercicio04.js";
+ import { remplazoSignoInterrogacion } from "../services02/servicesEjercicio04.js";
 
 const ingresoNum = prompt("Ingrese una cadena de N caracteres impares (ej: 3?4?1), intercalando dígitos del 0 al 5 y '?'");
 
